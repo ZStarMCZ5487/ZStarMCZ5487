@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello,I am a random 14 year old kid that really bad at coding ;-;
+
+
 
 <!--
 **ZStarMCZ5487/ZStarMCZ5487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
