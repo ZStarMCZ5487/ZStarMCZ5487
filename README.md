@@ -6,11 +6,9 @@
 > ![PHP](https://img.shields.io/badge/Php-025E8C.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
 - **What I'm doing?**:
-> making a minecraft bedrock edition server 
-> sleeping
+> making a minecraft bedrock edition server
 
 - **Social**:
-> ![Discord](https://img.shields.io/badge/discord-0000FF.svg?style=for-the-badge&logo=discord&logoColor=white): ZStarMCZ5487#0089
 
 
 
