@@ -9,6 +9,7 @@
 > making a minecraft bedrock edition server
 
 - **Social**:
+> ![Discord: ZStarMCZ5487#0089](https://img.shields.io/badge/discord-0000FF.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 
