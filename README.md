@@ -5,6 +5,13 @@
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 > ![PHP](https://img.shields.io/badge/Php-025E8C.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
+- **What I'm doing?**:
+> making a minecraft bedrock edition server 
+> sleeping
+
+**Social**:
+> ![Discord](https://img.shields.io/badge/discord-025E8C.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 
 
 <!--
