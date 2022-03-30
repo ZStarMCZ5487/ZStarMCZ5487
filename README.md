@@ -1,9 +1,7 @@
 ### Hello,I am a random 15 year old kid that really bad at coding ;-;
 
-- language:
-GOLANG
-JAVASCRIPT (i dont use it mostly)
-PHP        (i dont use it mostly)
+- **language**:
+> ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 
