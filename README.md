@@ -1,5 +1,10 @@
 ### Hello,I am a random 15 year old kid that really bad at coding ;-;
 
+- language:
+GOLANG
+JAVASCRIPT (i dont use it mostly)
+PHP        (i dont use it mostly)
+
 
 
 <!--
