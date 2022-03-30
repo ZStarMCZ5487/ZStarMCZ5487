@@ -10,7 +10,7 @@
 > sleeping
 
 **Social**:
-> ![Discord](https://img.shields.io/badge/discord-025E8C.svg?style=for-the-badge&logo=discord&logoColor=white)
+> ![ZStarMCZ5487#0089](https://img.shields.io/badge/discord-0000FF.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 
