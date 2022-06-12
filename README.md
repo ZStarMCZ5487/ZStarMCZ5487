@@ -3,7 +3,6 @@
 > **language**:
 - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![PHP](https://img.shields.io/badge/Php-025E8C.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
 > **What I'm doing?**:
 - making a minecraft bedrock edition server
